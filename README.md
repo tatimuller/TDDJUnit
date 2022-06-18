@@ -4,8 +4,8 @@ Projeto desenvolvido durante o curto TDD e Java: testes automatizafos com JUnit
 
 ## 🚀 Sobre
 
-Este projeto utilizou Maven e JUnit para aplicar a técnica de TDD.
-Foram utilizadas as principais anotações e recursos do JUnit. Também foi unilizado o JUnit para testar exceptions.
+Este projeto utilizou o JUnit para o teste automatizado aliado a técnica de TDD.
+Foram utilizadas as principais anotações e recursos do JUnit. Também foi usado o JUnit para testar exceptions.
 
 
 ## 🛠️ Construído com
