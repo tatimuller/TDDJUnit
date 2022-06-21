@@ -21,7 +21,7 @@ Para construção desse projeto utilizei as seguintes tecnologias:
 
 TDD
 
-Neste projeto, foram criado duas classes modelos: Funcionario e Desempenho.
+Neste projeto, foram criadas duas classes modelos: Funcionario e Desempenho.
 Depois foi criado BonusServiceTest com os métodos teste contemplando os cenários dos métods a serem desenvolvidos.
 Por fim, o desenvolvimento das classes com os métodos que contemplam a regra de negócio.
 
